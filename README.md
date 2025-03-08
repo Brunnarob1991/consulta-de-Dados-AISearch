@@ -1,6 +1,8 @@
 # Projeto Decola Tech 2025 consulta-de-Dados-AISearch
 
 1- Utilizar o Azure Ai Services - AI Search;
+
+
 ![image](https://github.com/user-attachments/assets/91be0d08-ce60-4bb2-818f-3037a3017e45)
 
 -Crie um grupo de recuros e um nome para o serviço;
